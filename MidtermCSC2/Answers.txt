@@ -1,9 +1,4 @@
-
-
-
-Testing time!
-3 5 4 
-12 14 11 
-8 56 23 
-9 22 13 
-50 24 17 
+The area of each circle is:  28 , 452 , 200 , 254 , ---- ,
+The area of each rectangle is:  20 , 154 , 1288 , 286 , ---- ,
+The perimeter of each circle is:  18 , 75 , 50 , 56 , ---- ,
+The perimeter of each rectangle is:  18 , 50 , 158 , 70 , ---- ,
