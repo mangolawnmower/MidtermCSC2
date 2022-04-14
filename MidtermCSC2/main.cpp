@@ -20,7 +20,12 @@
 //		- Other Classes:
 //			- Shape: A parent of 'Circle' and 'Rectangle' that is used to hold the computed data.
 //			- Circle and Rectangle: Children of Shape that store the raw data from the input file.
-// 
+// Quirks:
+//			- 3 NPD notifiers:
+//				- Becuase throwing a string was a requirement of this exam, the NPD() method was used instead of a class.
+//				- Half-way through writing this project, I fully redesigned my code. 
+//				- One of the fixes I didn't have time to impliment was only notifing the user once through the terminal for each exception.
+//			- Additionally, the data is only (formally with a try/catch block) inspected for exceptions once.
 //// 
 
 #include "Shape.h"
